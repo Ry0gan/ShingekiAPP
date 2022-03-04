@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShingekiAPP</string>
+    <string name="leviName" translatable="false">Levi Ackerman</string>
+    <string name="leviDesc">Levi es una persona seria, de carácter firme e ideas claras. Siente un gran respeto por la disciplina y es un conscripto con un enorme potencial para ser líder, pues sus órdenes siempre son claras y precisas, sin que nadie se atreva a cuestionar su autoridad. </string>
+    <string name="erwinName" translatable="false">Erwin Smith</string>
+    <string name="erwinDesc">Erwin fue un hombre capaz, inteligente y respetado, quien, al igual que Levi, cuidaba mucho a sus hombres y no dudaba en sacrificarse para el futuro de la humanidad.</string>
+    <string name="arminDesc">Armin es un amigo de la infancia de Eren Jaeger y Mikasa Ackerman. Aunque físicamente es más débil que el resto de sus compañeros, demuestra una gran inteligencia a través de su capacidad estratégica y soluciones rápidas.</string>
+    <string name="arminName" translatable="false">Armin Arlert</string>
+    <string name="mikasaName" translatable="false">Mikasa Ackerman</string>
+    <string name="mikasaDesc">Mikasa es la hermana adoptiva de Eren Jaeger. Le debe mucho a él, desde que la salvó de los secuestradores que pretendían convertirla en esclava, y pasa la mayor parte de su tiempo juntos.</string>
+    <string name="erenName" translatable="false">Eren Jaeger</string>
+    <string name="erenDesc">Eren es un adolescente que jura vengarse de enormes criaturas conocidas como titanes que devoraron a su madre y destruyeron su ciudad en la Muralla María.</string>
+</resources>

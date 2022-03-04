@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShingekiAPP</string>
+    <string name="leviDesc">Levi is a serious person, with a firm character and clear ideas. He has great respect for discipline and is a recruit with enormous potential to be a leader, as his orders are always clear and precise, without anyone daring to question his authority.</string>
+    <string name="erwinDesc">Erwin was a capable, intelligent and respected man, who, like Levi, took great care of his men and did not hesitate to sacrifice himself for the future of humanity.</string>
+    <string name="arminDesc">Armin is a childhood friend of Eren Jaeger and Mikasa Ackerman. Although physically weaker than the rest of his teammates, he demonstrates great intelligence through his strategic ability and quick solutions.</string>
+    <string name="mikasaDesc">Mikasa is the adoptive sister of Eren Jaeger. She owes a lot to him, since he saved her from kidnappers who intended to make her a slave, and they spend most of their time together.</string>
+    <string name="erenDesc">Eren is a teenager who swears revenge on huge creatures known as titans who devoured his mother and destroyed his city at Wall Maria.</string>
+</resources>
